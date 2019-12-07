@@ -44,3 +44,4 @@ vrrp_instance VI_1 {
 
 
 
+https://ahmermansoor.blogspot.com/2018/08/keepalived-configure-floating-ip-centos-7.html
